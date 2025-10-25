@@ -4,3 +4,4 @@ markdown==3.5.1
 WeasyPrint==60.1
 Werkzeug==3.0.1
 Pygments==2.17.2
+gunicorn==21.2.0
